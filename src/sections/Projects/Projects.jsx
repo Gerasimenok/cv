@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./ProjectsStyles.module.css";
-import lamoda from "../../assets/lamoda.PNG";
+import lamoda from "../../assets/lamoda.png";
 import reduxNotion from "../../assets/reduxNotion.png";
 import todolist from "../../assets/todolist.png";
 import spa from "../../assets/spa.png";
